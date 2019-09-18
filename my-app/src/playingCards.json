@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Lucky Charms",
+        "image": "https://media1.popsugar-assets.com/files/thumbor/KufLyV7Au4_8rACgvfxKhBpd6Pk/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2014/02/19/033/n/1922195/51fb326283d6f416_LC_1988Box/i/Lucky-Charms-Cereal-Boxes.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Capn Crunch",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/918HX2-TyhL._SY550_.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Raisin Brand",
+        "image": "https://i5.walmartimages.com/asr/d6f53253-8a67-488a-82d9-c8f4752a0cfb_1.d8a8701342dbe2ac6618bf1a790c43b8.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "Mini Wheat",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/41lRJfACAwL.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Frosted Flakes",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/91q7deMrarL._SY550_.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Fruity Pebbles",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61xCHy8YuIL.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Cocoa Pebbles",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/A14UZRiMfVL._SY550_.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Cocoa Pebbles",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51hKW1fH8HL.SX298_SY500_CR,0,0,298,500_PIbundle-3,TopRight,0,0_SX298_SY500_CR,0,0,298,500_SH20_.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Froot Loops",
+        "image": "http://maharajafoods.com/811/froot-loops-cereal-sweetened-multigrain-17-ounce-boxes.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Corn Flakes",
+        "image": "https://assets.fontsinuse.com/static/use-media-items/33/32037/full-430x600/56702581/cornflakes.jpeg?resolution=0"
+    },
+    {
+        "id": 11,
+        "name": "Apple Jacks",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51CGD3PMhoL.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Rice Krispies",
+        "image": "https://rukminim1.flixcart.com/image/704/704/jingcy80/cereal-flake/q/k/z/340-rice-krispies-toasted-rice-cereal-340g-12oz-box-kellogg-s-original-imaf6esbnyxx78zn.jpeg?q=70"
+    }
+]
