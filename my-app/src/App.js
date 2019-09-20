@@ -9,7 +9,7 @@ import playingCards from './playingCards.json';
 import NavBar from './components/NavBar/navbar';
 
   let cardsClicked=[];
-  let message="Click a cereal box to start";
+  let message="Click a Cereal Box to Start the Game!";
   let score=0;
   let highscore=0;
 
@@ -52,8 +52,9 @@ class App extends Component {
 
     return (
       <div className="App">
+      
+      <NavBar message={message} score={score} highscore={highscore} ></NavBar>
       <imageContainer>
-      <NavBar score={score} highscore={highscore} message={message}></NavBar>
       <Grid>
       {this.state.playingCards.map(playingCards => (
         <Cards
@@ -65,6 +66,7 @@ class App extends Component {
       ))}
       </Grid>
       </imageContainer>
+      <footer></footer>
       </div>
     )
   }
