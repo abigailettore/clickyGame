@@ -3,9 +3,9 @@ import "./cards.css"
 
 function Cards(props){
     return(
-        <div className="playingCards">
-            <div className="img-container">
-                <img alt={props.name} src={props.image} className="imgStyling" />
+        <div className="cards">
+            <div className="img-container" onClick={() => props.handleClick(props.id)}>
+                <img className="imgStyling" alt={props.name} src={props.image} />
             </div>
         </div>
     );
